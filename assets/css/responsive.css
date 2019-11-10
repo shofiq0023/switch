@@ -1,0 +1,24 @@
+@media (max-width: 768px){
+	.menubar{
+		display: none;
+	}
+	.menu-btn{
+		display: block;
+	}
+	.work-item{
+		text-align: center;
+		padding-bottom: 29px;
+	}
+	.client-image{
+		padding-bottom: 60px;
+	}
+	.footer-item p{
+		margin: 0 auto;
+	}
+	.f-item{
+		padding-bottom: 50px;
+	}
+	.news-item{
+		padding-bottom: 29px;
+	}
+}
